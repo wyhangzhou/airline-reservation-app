@@ -1,0 +1,117 @@
+/*css for book*/
+#jumbotron-book .container {
+	/* position: relative; */
+	top: 100px;
+}
+
+#jumbotron-book h1 {
+	color: #fff;
+	font-family: 'Shift', sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+	
+}
+
+#jumbotron-book p {
+	color: #888;
+	font-size: 20px;
+}
+
+.container {
+	padding-top: 100px;
+	padding-bottom: 14px;
+	padding-left: 20px;
+	margin-right: auto;
+}
+
+#jumbotron-book {
+	width: 1024px;
+	height: 595px;
+	background-image: url('http://goo.gl/vFBqW9');
+}
+
+/*css for register*/
+#jumbotron-register .container {
+	/* position: :relative; */
+	top: 100px;
+}
+
+#jumbotron-register h1 {
+	color: #fff;
+	font-family: 'Shift', sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+	
+}
+
+#jumbotron-register p {
+	color: #FFFFF;
+	font-size: 20px;
+}
+
+.container {
+	padding-top: 100px;
+	padding-bottom: 14px;
+	padding-left: 20px;
+	margin-right: auto;
+}
+
+#jumbotron-register {
+	width: 1024px;
+	height: 595px;
+	background-image: url('http://goo.gl/x6uQ7D');
+}
+
+/* css for singin */
+#jumbotron-signin .container {
+	/* position: :relative; */
+	top: 100px;
+}
+
+#jumbotron-signin h1 {
+	color: #fff;
+	font-family: 'Shift', sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+	
+}
+
+/* #jumbotron-signin p {
+	color: #FFFFF;
+	font-size: 20px;
+} */
+
+.container {
+	padding-top: 100px;
+	padding-bottom: 14px;
+	padding-left: 20px;
+	margin-right: auto;
+}
+
+#jumbotron-signin {
+	width: 1024px;
+	height: 595px;
+	background-image: url('http://goo.gl/CXcZot');
+}
+/* css for error page */
+#signinerror{
+	padding: 1px;
+	width: 1024px;
+	height: 595px;
+	background-image: url('http://goo.gl/CXcZot');
+}
+
+#jumbotron-pleasesignin {
+	width: 1024px;
+	height: 595px;
+	background-image: url('http://goo.gl/CXcZot');
+}
+
+
+
+
+
+
+
+
+

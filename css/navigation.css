@@ -1,0 +1,14 @@
+nav {
+	background-color: #517fa4;
+	padding-top: 8px;
+}
+nav a {
+	color: #F0F8FF;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	display: inline;
+	
+	margin-left: 10px;
+}
